@@ -1,0 +1,325 @@
+domain;aspect;implict aspect clue;category;qtd;subcategory
+camera;Design;bonita;Qualification;2;Adjective
+camera;Design;elegante;Qualification;1;Adjective
+camera;Design;linda;Qualification;1;Adjective
+camera;Design;versátil;Qualification;2;Adjective
+camera;Peso;leve;Qualification;2;Adjective
+camera;Tamanho;compacta;Qualification;9;Adjective
+camera;Tamanho;fina;Qualification;1;Adjective
+camera;Tamanho;grande;Qualification;1;Adjective
+camera;Tamanho;pequena;Qualification;1;Adjective
+camera;Usabilidade;auto explicativa;Qualification;1;Adjective
+camera;Usabilidade;intuitiva;Qualification;1;Adjective
+camera;Usabilidade;pratica;Qualification;1;Adjective
+camera;Valor;barata;Qualification;1;Adjective
+camera;Velocidade;rápida;Qualification;1;Adjective
+camera;Design;material;Feature;1;Attribute
+camera;Foto;opções para fazer a foto;Feature;1;Attribute
+camera;Imagem;modo noite;Feature;1;Attribute
+camera;Resolução;megapixels;Feature;3;Attribute
+camera;Tamanho;medidas;Feature;1;Attribute
+camera;Tamanho;volume;Feature;1;Attribute
+camera;Valor;cada centavo investido;Feature;1;Equivalence
+camera;Câmera;qualidade;Qualification;1;Nominal form
+camera;Design;beleza;Qualification;1;Nominal form
+camera;Peso;leveza;Qualification;1;Nominal form
+camera;Atendimento_ao_consumidor;tratamento como cliente;Event;1;Non-verbal form
+camera;Usabilidade;facil manuseio;Event;1;Non-verbal form
+camera;Usabilidade;facilidade de uso;Event;1;Non-verbal form
+camera;Usabilidade;facilidade no uso;Event;1;Non-verbal form
+camera;Usabilidade;fácil manuseio;Event;1;Non-verbal form
+camera;Usabilidade;fácil uso;Event;1;Non-verbal form
+camera;Flash;se não tiver uma luz boa;Contextual;1;Related
+camera;Resolução;filma em hd;Event;1;Verb
+camera;Usabilidade;facil de usar;Event;1;Verb
+camera;Usabilidade;facilidade em mexer;Event;1;Verb
+camera;Usabilidade;fácil de manusear;Event;1;Verb
+camera;Usabilidade;fácil de operar;Event;1;Verb
+camera;Usabilidade;fácil de usar;Event;2;Verb
+camera;Usabilidade;fácil de utilizar;Event;1;Verb
+camera;Velocidade;demora a responder;Event;1;Verb
+hotel;instalações;mobiliados;Qualification;1;Adjective
+hotel;instalações;ultrapassado;Qualification;1;Adjective
+hotel;instalações;de resto é muito ruim;Qualification;1;Adjective
+hotel;instalações;espelunca;Qualification;1;Adjective
+hotel;instalações;lugar simples;Qualification;1;Adjective
+hotel;limpeza;empoeirado;Qualification;1;Adjective
+hotel;limpeza;encardido;Qualification;1;Adjective
+hotel;limpeza;fedorento;Qualification;1;Adjective
+hotel;limpeza;limpas;Qualification;1;Adjective
+hotel;limpeza;limpo;Qualification;1;Adjective
+hotel;limpeza;nojeto;Qualification;1;Adjective
+hotel;limpeza;sujo;Qualification;1;Adjective
+hotel;limpeza;imundo;Qualification;1;Adjective
+hotel;limpeza;manchada;Qualification;1;Adjective
+hotel;limpeza;sujos;Qualification;1;Adjective
+hotel;limpeza;imundas;Qualification;1;Adjective
+hotel;limpeza;insalúbre;Qualification;1;Adjective
+hotel;limpeza;manchado;Qualification;1;Adjective
+hotel;limpeza;nojento;Qualification;1;Adjective
+hotel;limpeza;sujas;Qualification;1;Adjective
+hotel;limpeza;aspecto sujo;Qualification;1;Adjective
+hotel;limpeza;imunda;Qualification;1;Adjective
+hotel;limpeza;limpinho;Qualification;1;Adjective
+hotel;limpeza;limpos;Qualification;6;Adjective
+hotel;limpeza;manchados;Qualification;1;Adjective
+hotel;limpeza;suja;Qualification;1;Adjective
+hotel;localização;bem central;Qualification;1;Adjective
+hotel;localização;pertinho do aeroporto;Qualification;1;Adjective
+hotel;localização;perto;Qualification;1;Adjective
+hotel;localização;proximo;Qualification;1;Adjective
+hotel;localização;próximo;Qualification;1;Adjective
+hotel;preço;barato que sai caro;Qualification;1;Adjective
+hotel;preço;baratinho;Qualification;1;Adjective
+hotel;preço;barato;Qualification;3;Adjective
+hotel;preço;baratos;Qualification;1;Adjective
+hotel;preço;caro;Qualification;5;Adjective
+hotel;custo-benefício;custo;Feature;5;Equivalence
+hotel;custo-benefício;custo beneficio;Feature;1;Equivalence
+hotel;custo-benefício;custo benefício;Feature;2;Equivalence
+hotel;custo-benefício;custo x beneficio;Feature;1;Equivalence
+hotel;custo-benefício;custo/beneficio;Feature;1;Equivalence
+hotel;funcionários;equipe;Feature;3;Equivalence
+hotel;limpeza;higiene;Feature;1;Equivalence
+hotel;localização;licalização;Feature;1;Equivalence
+hotel;localização;local em que se situa;Feature;1;Equivalence
+hotel;localização;local é de fácil acesso;Feature;1;Equivalence
+hotel;localização;localizacao;Feature;1;Equivalence
+hotel;localização;localizado;Feature;25;Equivalence
+hotel;localização;localizado no centro;Feature;1;Equivalence
+hotel;localização;localizaçao;Feature;1;Equivalence
+hotel;localização;localização;Feature;10;Equivalence
+hotel;preço;valor;Feature;3;Equivalence
+hotel;preço;valor da diaria;Feature;1;Equivalence
+hotel;preço;valor é fora da realidade;Feature;1;Equivalence
+hotel;preço;valores;Feature;1;Equivalence
+hotel;quarto;apartamento;Feature;3;Equivalence
+hotel;quarto;apartamentos;Feature;5;Equivalence
+hotel;quarto;apto;Feature;1;Equivalence
+hotel;quarto;acomodação;Feature;1;Equivalence
+hotel;quarto;acomodações;Feature;5;Equivalence
+hotel;quarto;quarto;Feature;1;Equivalence
+hotel;serviço;serviços;Feature;1;Equivalence
+hotel;instalações;hotel pequeno;Qualification;1;Equivalence
+hotel;instalações;hotel simples;Qualification;1;Equivalence
+hotel;instalações;hotel é muito simples;Qualification;1;Equivalence
+hotel;instalações;hotel expressinho é básico;Qualification;1;Equivalence
+hotel;instalações;hotel muito antigo;Qualification;1;Equivalence
+hotel;instalações;"hotel; eu sabia que era simples";Qualification;1;Equivalence
+hotel;limpeza;limpeza;Qualification;1;Equivalence
+hotel;limpeza;sujidades;Qualification;1;Equivalence
+hotel;limpeza;sujeira;Qualification;1;Equivalence
+hotel;preço;diárias acessíveis;Qualification;1;Equivalence
+hotel;funcionários;camareiras;Feature;1;Is-a
+hotel;funcionários;pessoal que atende na portaria;Feature;1;Is-a
+hotel;funcionários;recepcionista;Feature;3;Is-a
+hotel;funcionários;recepcionistas;Feature;8;Is-a
+hotel;refeição;café;Feature;5;Is-a
+hotel;refeição;café da manha;Feature;3;Is-a
+hotel;refeição;café da manhã;Feature;1;Is-a
+hotel;refeição;comida;Feature;4;Is-a
+hotel;refeição;janta;Feature;1;Is-a
+hotel;refeição;pratos;Feature;2;Is-a
+hotel;serviço;transporte próprio para levar e trazer do aeroporto;Feature;1;Is-a
+hotel;serviço;pelo transfer entre hotel e aeroporto;Feature;1;Is-a
+hotel;serviço;room service;Feature;3;Is-a
+hotel;serviço;room-service;Feature;1;Is-a
+hotel;serviço;serviço de quarto;Feature;1;Is-a
+hotel;serviço;transfer;Feature;13;Is-a
+hotel;serviço;translado;Feature;1;Is-a
+hotel;serviço;transporte gratuito;Feature;1;Is-a
+hotel;serviço;traslado;Feature;1;Is-a
+hotel;serviço;traslado gratuito para o aeroporto;Feature;1;Is-a
+hotel;localização;caminhada curta do centro histórico;Contextual;1;Location
+hotel;localização;fácil acesso ao centro;Contextual;1;Location
+hotel;localização;consegue ir a pé até o mercado público;Contextual;1;Location
+hotel;localização;pra quem precisa dar voltas no centro de poa;Contextual;1;Location
+hotel;localização;dá acesso ao coração da capital gaúcha;Contextual;1;Location
+hotel;localização;encontra-se estrategicamente dentro do centro financeiro;Contextual;2;Location
+hotel;localização;estando bem no centro de porto alegre;Contextual;1;Location
+hotel;localização;está a poucos quarteirões;Contextual;2;Location
+hotel;localização;fica numa rua deserta;Contextual;1;Location
+hotel;localização;ficar em uma área central;Contextual;1;Location
+hotel;localização;estar bem no centrão;Contextual;1;Location
+hotel;localização;fica a 500 metros do terminal;Contextual;1;Location
+hotel;localização;fica ao lado;Contextual;1;Location
+hotel;localização;fica bem localizado;Contextual;1;Location
+hotel;localização;fica bem no centro;Contextual;3;Location
+hotel;localização;fica em frente a rodoviária;Contextual;2;Location
+hotel;localização;fica na regiao central;Contextual;1;Location
+hotel;localização;fica na região central;Contextual;1;Location
+hotel;localização;fica no centro;Contextual;3;Location
+hotel;localização;ficar da rodoviária;Contextual;1;Location
+hotel;localização;se encontro na região historica;Contextual;1;Location
+hotel;localização;tem muitas coisas ao redor;Contextual;1;Location
+hotel;localização;tem muitas coisas ao redor para aproveitar;Contextual;1;Location
+hotel;localização;é hotel bem na região central;Contextual;1;Location
+hotel;localização;bem no centro;Contextual;1;Location
+hotel;localização;no centro;Contextual;1;Location
+hotel;localização;no centro da cidade;Contextual;1;Location
+hotel;localização;distante da calçada da fama;Contextual;1;Location
+hotel;localização;distância de 1 km do gasômetro;Contextual;1;Location
+hotel;localização;proximidade;Qualification;1;Nominal form
+hotel;funcionários;atendimento;Event;2;Non-verbal form
+hotel;preço;pagamento;Event;1;Non-verbal form
+hotel;atendimento;atendentes;Feature;2;Part-of
+hotel;instalações;academia;Feature;1;Part-of
+hotel;instalações;aquecedor;Feature;1;Part-of
+hotel;instalações;aquecimento;Feature;1;Part-of
+hotel;instalações;ar condicionado;Feature;6;Part-of
+hotel;instalações;balheiro;Feature;1;Part-of
+hotel;instalações;banheiro;Feature;39;Part-of
+hotel;instalações;banheiros;Feature;8;Part-of
+hotel;instalações;box;Feature;4;Part-of
+hotel;instalações;box do banheiro;Feature;1;Part-of
+hotel;instalações;cama;Feature;2;Part-of
+hotel;instalações;carpete;Feature;3;Part-of
+hotel;instalações;chuveiro;Feature;8;Part-of
+hotel;instalações;computador do hotel disponível para os hospedes;Feature;1;Part-of
+hotel;instalações;cortina;Feature;1;Part-of
+hotel;instalações;cortinas;Feature;1;Part-of
+hotel;instalações;cozinha;Feature;1;Part-of
+hotel;instalações;ducha;Feature;1;Part-of
+hotel;instalações;duchas;Feature;1;Part-of
+hotel;instalações;elevador;Feature;5;Part-of
+hotel;instalações;estacionamento;Feature;2;Part-of
+hotel;instalações;estrutura;Feature;4;Part-of
+hotel;instalações;fiação;Feature;1;Part-of
+hotel;instalações;fios;Feature;1;Part-of
+hotel;instalações;infraestrutura;Feature;1;Part-of
+hotel;instalações;local para guardar roupas;Feature;1;Part-of
+hotel;instalações;móveis;Feature;1;Part-of
+hotel;instalações;piscina;Feature;1;Part-of
+hotel;instalações;porta do banheiro;Feature;1;Part-of
+hotel;instalações;porta do box;Feature;1;Part-of
+hotel;instalações;prédio;Feature;1;Part-of
+hotel;instalações;rampa;Feature;1;Part-of
+hotel;instalações;rede wi-fi;Feature;1;Part-of
+hotel;instalações;roupa de cama;Feature;1;Part-of
+hotel;instalações;sala de ginástica;Feature;1;Part-of
+hotel;instalações;telefone;Feature;1;Part-of
+hotel;instalações;tomada;Feature;1;Part-of
+hotel;instalações;tomadas;Feature;1;Part-of
+hotel;instalações;torneira;Feature;1;Part-of
+hotel;instalações;wi-fi;Feature;7;Part-of
+hotel;instalações;wifi;Feature;3;Part-of
+hotel;instalações;utensílios de banho;Feature;1;Part-of
+hotel;quarto;cômodos;Feature;1;Part-of
+hotel;serviço;atendimento dos recepcionistas;Feature;1;Part-of
+hotel;instalações;infiltrações;Contextual;1;Related
+hotel;instalações;insetos;Contextual;1;Related
+hotel;limpeza;chiqueiro;Contextual;1;Related
+hotel;limpeza;lixo;Contextual;1;Related
+hotel;limpeza;podre;Contextual;1;Related
+hotel;limpeza;nojo;Contextual;1;Related
+hotel;limpeza;barata;Contextual;1;Related
+hotel;limpeza;baratinhas;Contextual;1;Related
+hotel;limpeza;cheira mofo;Contextual;1;Related
+hotel;limpeza;cheiro;Contextual;1;Related
+hotel;limpeza;mofo;Contextual;1;Related
+hotel;limpeza;roupas de cama bem usadas;Contextual;1;Related
+hotel;limpeza;cheiram forte de cigarro;Contextual;1;Related
+hotel;limpeza;cheiro de mofo;Contextual;5;Related
+hotel;limpeza;esponja usada pendurada no registro;Contextual;1;Related
+hotel;limpeza;mal cheiro;Contextual;1;Related
+hotel;limpeza;mau cheiro;Contextual;1;Related
+hotel;limpeza;o quarto tinha cheiro de velho e tive alergia com a roupa de cama.;Contextual;1;Related
+hotel;limpeza;porém não trocaram os lençóis;Contextual;1;Related
+hotel;limpeza;cheira a mofo;Contextual;1;Related
+hotel;limpeza;cheirando a mofo;Contextual;1;Related
+hotel;limpeza;coceira em todo o corpo;Contextual;1;Related
+hotel;qualidade do sono;silenciosos;Contextual;1;Related
+hotel;qualidade do sono;noite de sono;Contextual;1;Related
+hotel;qualidade do sono;sejam muito escuros;Contextual;1;Related
+hotel;qualidade do sono;ar-condicionado muito barulhento;Contextual;1;Related
+hotel;qualidade do sono;barulhento;Contextual;6;Related
+hotel;qualidade do sono;barulhentos;Contextual;2;Related
+hotel;qualidade do sono;barulho;Contextual;6;Related
+hotel;qualidade do sono;barulhos;Contextual;1;Related
+hotel;qualidade do sono;"quarto; bastante barulhento";Contextual;1;Related
+hotel;qualidade do sono;silencio;Contextual;1;Related
+hotel;qualidade do sono;silencioso;Contextual;2;Related
+hotel;qualidade do sono;som desagradável de uma boate;Contextual;1;Related
+hotel;qualidade do sono;pit stop;Contextual;1;Related
+hotel;qualidade do sono;cama;Contextual;1;Related
+hotel;qualidade do sono;camas;Contextual;1;Related
+hotel;qualidade do sono;coberto;Contextual;1;Related
+hotel;qualidade do sono;cobertores;Contextual;1;Related
+hotel;qualidade do sono;lençol;Contextual;2;Related
+hotel;serviço;tivemos que carregar as malas sozinhos;Contextual;1;Related
+hotel;atendimento;atendido;Event;1;Verb
+hotel;qualidade do sono;descansar;Event;1;Verb
+hotel;qualidade do sono;dormir;Event;2;Verb
+hotel;refeição;comer;Event;1;Verb
+livro;Assunto;essência;Feature;1;Equivalence
+livro;Crítica;reflexão;Feature;1;Equivalence
+livro;Crítica;questões;Feature;1;Equivalence
+livro;Livro;bestsellers;Feature;1;Equivalence
+livro;Passagem;pontos;Feature;1;Equivalence
+livro;Personagem;mocinha;Feature;1;Is-a
+livro;Assunto;caricatura cega de amor ou ódio;Contextual;1;Related
+livro;Assunto;explora a fantasia atrelada a cegueira;Contextual;1;Related
+livro;Assunto;"história sobre ""big brother""";Contextual;1;Related
+livro;Assunto;para quem gosta de mentes sombrias;Contextual;1;Related
+livro;Assunto;sociedade de o big brother;Contextual;1;Related
+livro;Livro;um de os meus preferido;Contextual;1;Related
+livro;Assunto;conta coisas por as quais;Event;1;Verb
+livro;Assunto;fala de;Event;2;Verb
+livro;Assunto;remetendo;Event;1;Verb
+livro;Assunto;é mostrada;Event;1;Verb
+livro;Crítica;refletir;Event;1;Verb
+livro;Crítica;retrata;Event;1;Verb
+livro;Escrita;escreve;Event;1;Verb
+livro;Escrita;jeito único de ela pra escrever;Event;1;Verb
+livro;Escrita;sabe como escrever;Event;1;Verb
+livro;Escrita;sabe escrever;Event;1;Verb
+livro;Final;termina;Event;1;Verb
+livro;Leitura;ler;Event;1;Verb
+smartphone;Design;arrojado;Qualification;1;Adjective
+smartphone;Design;atual;Qualification;1;Adjective
+smartphone;Design;bonito;Qualification;6;Adjective
+smartphone;Design;chique;Qualification;1;Adjective
+smartphone;Design;lindo;Qualification;2;Adjective
+smartphone;Design;moderno;Qualification;3;Adjective
+smartphone;Design;versátil;Qualification;1;Adjective
+smartphone;Peso;leve;Qualification;3;Adjective
+smartphone;Peso;levinho;Qualification;1;Adjective
+smartphone;Peso;pesado;Qualification;2;Adjective
+smartphone;Smartphone;porcaria;Qualification;1;Adjective
+smartphone;Tamanho;compacto;Qualification;1;Adjective
+smartphone;Tamanho;pequeno;Qualification;2;Adjective
+smartphone;Tamanho;volumoso;Qualification;1;Adjective
+smartphone;Usabilidade;pratico;Qualification;1;Adjective
+smartphone;Usabilidade;prático;Qualification;2;Adjective
+smartphone;Valor;acessivel;Qualification;1;Adjective
+smartphone;Valor;barato;Qualification;1;Adjective
+smartphone;Velocidade;cheios de bugs;Qualification;1;Adjective
+smartphone;Velocidade;lento;Qualification;2;Adjective
+smartphone;Velocidade;rápido;Qualification;1;Adjective
+smartphone;Sinal;a recepção é muito boa;Feature;1;Attribute
+smartphone;Sinal;ligações telefonicas;Feature;1;Attribute
+smartphone;Sistema_Operacional;sistema symbiam/java;Feature;1;Is-a
+smartphone;Design;beleza;Qualification;1;Nominal form
+smartphone;Design;elegância;Qualification;1;Nominal form
+smartphone;Design;robustez;Qualification;1;Nominal form
+smartphone;Peso;leveza;Qualification;1;Nominal form
+smartphone;Tela;sensibilidade;Qualification;1;Nominal form
+smartphone;Velocidade;rapidez;Qualification;1;Nominal form
+smartphone;Confiabilidade;confiança na marca;Event;1;Non-verbal form
+smartphone;Usabilidade;operação;Event;1;Non-verbal form
+smartphone;Velocidade;tempo de resposta;Event;1;Non-verbal form
+smartphone;Sinal;funciona em qualquer lugar;Contextual;1;Related
+smartphone;Sincronização;acesso aos dados;Contextual;1;Related
+smartphone;Sistema_Operacional;falta de compatibilidade;Contextual;1;Related
+smartphone;Bateria;descarrega;Event;1;Verb
+smartphone;Câmera;modulo para filmar;Event;1;Verb
+smartphone;Internet;navegar na internet;Event;1;Verb
+smartphone;Sinal;recebi chamadas até na beira do rio;Event;1;Verb
+smartphone;Usabilidade;facil de manusear;Event;1;Verb
+smartphone;Usabilidade;fácil de mexer;Event;2;Verb
+smartphone;Usabilidade;fácil de usar;Event;2;Verb
+smartphone;Usabilidade;usá-lo;Event;1;Verb
+smartphone;Velocidade;congela;Event;1;Verb
+smartphone;Velocidade;demora a responder;Event;1;Verb
+smartphone;Velocidade;restarta;Event;1;Verb
+smartphone;Velocidade;trava;Event;5;Verb
