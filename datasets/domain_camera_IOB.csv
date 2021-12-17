@@ -3716,7 +3716,7 @@ Sentence: 212	Com	ADP	O
 	você	PRON	O
 	e	CCONJ	O
 	dizer	VERB	O
-	"	PUNCT	O
+	'	PUNCT	O
 	rapaz	NOUN	O
 	esta	DET	O
 	máquina	NOUN	O
@@ -3726,7 +3726,7 @@ Sentence: 212	Com	ADP	O
 	!	PUNCT	O
 	!	PUNCT	O
 	!	PUNCT	O
-	"	PUNCT	O
+	'	PUNCT	O
 Sentence: 213	Como	ADV	O
 	se	SCONJ	O
 	ela	PRON	O
