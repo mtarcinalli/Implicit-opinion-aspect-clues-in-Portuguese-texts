@@ -3445,7 +3445,6 @@ Sentence: 192	 	SPACE	O
 	visor	NOUN	B-asp
 	de	ADP	O
 	2,5	NUM	O
-	"	PUNCT	O
 	que	PRON	O
 	não	ADV	O
 	faz	VERB	O
