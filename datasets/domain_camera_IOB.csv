@@ -2726,9 +2726,9 @@ Sentence: 148	Fiquei	VERB	O
 	possuo	VERB	O
 	dá	VERB	O
 	um	DET	O
-	"	PUNCT	O
+	'	PUNCT	O
 	baile	NOUN	O
-	"	PUNCT	O
+	'	PUNCT	O
 	.	PUNCT	O
 Sentence: 149	 	SPACE	O
 	O	PRON	O
