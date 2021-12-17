@@ -2351,10 +2351,10 @@ Sentence: 137	 	SPACE	O
 	câmera	NOUN	B-asp
 	profissional	ADJ	O
 	de	ADP	O
-	"	PUNCT	O
+	'	PUNCT	O
 	Nível	NOUN	O
 	Iniciante	PROPN	O
-	"	PUNCT	O
+	'	PUNCT	O
 	possui	VERB	O
 	grande	ADJ	O
 	qualidade	NOUN	B-asp
