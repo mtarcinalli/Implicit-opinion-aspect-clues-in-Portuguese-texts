@@ -2768,9 +2768,9 @@ Sentence: 149	 	SPACE	O
 	das	ADP	I-asp
 	fotos	NOUN	I-asp
 	fica	VERB	O
-	"	PUNCT	O
+	'	PUNCT	O
 	desbotada	VERB	O
-	"	PUNCT	O
+	'	PUNCT	O
 	,	PUNCT	O
 	no	ADP	O
 	visor	NOUN	B-asp
