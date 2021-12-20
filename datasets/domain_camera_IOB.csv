@@ -1784,6 +1784,7 @@ Sentence: 112	medio	NOUN	O
 	muinto	ADJ	O
 	rui	PROPN	O
 	 	SPACE	O
+	"	PUNCT	O
 	A	DET	O
 	aparência	NOUN	B-asp
 	de	ADP	O
@@ -2351,10 +2352,10 @@ Sentence: 137	 	SPACE	O
 	câmera	NOUN	B-asp
 	profissional	ADJ	O
 	de	ADP	O
-	'	PUNCT	O
+	"	PUNCT	O
 	Nível	NOUN	O
 	Iniciante	PROPN	O
-	'	PUNCT	O
+	"	PUNCT	O
 	possui	VERB	O
 	grande	ADJ	O
 	qualidade	NOUN	B-asp
@@ -2726,9 +2727,9 @@ Sentence: 148	Fiquei	VERB	O
 	possuo	VERB	O
 	dá	VERB	O
 	um	DET	O
-	'	PUNCT	O
+	"	PUNCT	O
 	baile	NOUN	O
-	'	PUNCT	O
+	"	PUNCT	O
 	.	PUNCT	O
 Sentence: 149	 	SPACE	O
 	O	PRON	O
@@ -2768,9 +2769,9 @@ Sentence: 149	 	SPACE	O
 	das	ADP	I-asp
 	fotos	NOUN	I-asp
 	fica	VERB	O
-	'	PUNCT	O
+	"	PUNCT	O
 	desbotada	VERB	O
-	'	PUNCT	O
+	"	PUNCT	O
 	,	PUNCT	O
 	no	ADP	O
 	visor	NOUN	B-asp
@@ -3445,6 +3446,7 @@ Sentence: 192	 	SPACE	O
 	visor	NOUN	B-asp
 	de	ADP	O
 	2,5	NUM	O
+	"	PUNCT	O
 	que	PRON	O
 	não	ADV	O
 	faz	VERB	O
@@ -3716,7 +3718,7 @@ Sentence: 212	Com	ADP	O
 	você	PRON	O
 	e	CCONJ	O
 	dizer	VERB	O
-	'	PUNCT	O
+	"	PUNCT	O
 	rapaz	NOUN	O
 	esta	DET	O
 	máquina	NOUN	O
@@ -3726,7 +3728,7 @@ Sentence: 212	Com	ADP	O
 	!	PUNCT	O
 	!	PUNCT	O
 	!	PUNCT	O
-	'	PUNCT	O
+	"	PUNCT	O
 Sentence: 213	Como	ADV	O
 	se	SCONJ	O
 	ela	PRON	O
@@ -4291,9 +4293,9 @@ Sentence: 250	 	SPACE	O
 	mesma	ADJ	O
 	nao	ADV	O
 	sair	VERB	O
-	''	PUNCT	O
+	"	PUNCT	O
 	tremida	NOUN	O
-	''	PUNCT	O
+	"	PUNCT	O
 	devido	ADV	O
 	ao	ADP	O
 	tamanho	NOUN	B-asp
