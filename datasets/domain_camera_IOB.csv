@@ -4291,9 +4291,9 @@ Sentence: 250	 	SPACE	O
 	mesma	ADJ	O
 	nao	ADV	O
 	sair	VERB	O
-	"	PUNCT	O
+	''	PUNCT	O
 	tremida	NOUN	O
-	"	PUNCT	O
+	''	PUNCT	O
 	devido	ADV	O
 	ao	ADP	O
 	tamanho	NOUN	B-asp
