@@ -1,0 +1,427 @@
+<?xml version="1.0" ?>
+<datasets>
+	<camera>
+		<Atendimento_ao_consumidor>
+			<item>tratamento como cliente</item>
+		</Atendimento_ao_consumidor>
+		<Câmera>
+			<item>qualidade</item>
+		</Câmera>
+		<Design>
+			<item>beleza</item>
+			<item>bonita</item>
+			<item>elegante</item>
+			<item>linda</item>
+			<item>material</item>
+			<item>versátil</item>
+		</Design>
+		<Flash>
+			<item>se não tiver uma luz boa</item>
+		</Flash>
+		<Foto>
+			<item>opções para fazer a foto</item>
+		</Foto>
+		<Imagem>
+			<item>modo noite</item>
+		</Imagem>
+		<Peso>
+			<item>leve</item>
+			<item>leveza</item>
+		</Peso>
+		<Resolução>
+			<item>filma em hd</item>
+			<item>megapixels</item>
+		</Resolução>
+		<Tamanho>
+			<item>compacta</item>
+			<item>fina</item>
+			<item>grande</item>
+			<item>medidas</item>
+			<item>pequena</item>
+			<item>volume</item>
+		</Tamanho>
+		<Usabilidade>
+			<item>auto explicativa</item>
+			<item>facil de usar</item>
+			<item>facil manuseio</item>
+			<item>facilidade de uso</item>
+			<item>facilidade em mexer</item>
+			<item>facilidade no uso</item>
+			<item>fácil de manusear</item>
+			<item>fácil de operar</item>
+			<item>fácil de usar</item>
+			<item>fácil de utilizar</item>
+			<item>fácil manuseio</item>
+			<item>fácil uso</item>
+			<item>intuitiva</item>
+			<item>pratica</item>
+		</Usabilidade>
+		<Valor>
+			<item>barata</item>
+			<item>cada centavo investido</item>
+		</Valor>
+		<Velocidade>
+			<item>demora a responder</item>
+			<item>rápida</item>
+		</Velocidade>
+	</camera>
+	<livro>
+		<Assunto>
+			<item>caricatura cega de amor ou ódio</item>
+			<item>conta coisas por as quais</item>
+			<item>essência</item>
+			<item>explora a fantasia atrelada a cegueira</item>
+			<item>fala de</item>
+			<item>história sobre &quot;big brother&quot;</item>
+			<item>para quem gosta de mentes sombrias</item>
+			<item>remetendo</item>
+			<item>sociedade de o big brother</item>
+			<item>é mostrada</item>
+		</Assunto>
+		<Crítica>
+			<item>questões</item>
+			<item>refletir</item>
+			<item>reflexão</item>
+			<item>retrata</item>
+		</Crítica>
+		<Escrita>
+			<item>escreve</item>
+			<item>jeito único de ela pra escrever</item>
+			<item>sabe como escrever</item>
+			<item>sabe escrever</item>
+		</Escrita>
+		<Final>
+			<item>termina</item>
+		</Final>
+		<Leitura>
+			<item>ler</item>
+		</Leitura>
+		<Livro>
+			<item>bestsellers</item>
+			<item>um de os meus preferido</item>
+		</Livro>
+		<Passagem>
+			<item>pontos</item>
+		</Passagem>
+		<Personagem>
+			<item>mocinha</item>
+		</Personagem>
+	</livro>
+	<smartphone>
+		<Bateria>
+			<item>descarrega</item>
+		</Bateria>
+		<Confiabilidade>
+			<item>confiança na marca</item>
+		</Confiabilidade>
+		<Câmera>
+			<item>modulo para filmar</item>
+		</Câmera>
+		<Design>
+			<item>arrojado</item>
+			<item>atual</item>
+			<item>beleza</item>
+			<item>bonito</item>
+			<item>chique</item>
+			<item>elegância</item>
+			<item>lindo</item>
+			<item>moderno</item>
+			<item>robustez</item>
+			<item>versátil</item>
+		</Design>
+		<Internet>
+			<item>navegar na internet</item>
+		</Internet>
+		<Peso>
+			<item>leve</item>
+			<item>leveza</item>
+			<item>levinho</item>
+			<item>pesado</item>
+		</Peso>
+		<Sinal>
+			<item>a recepção é muito boa</item>
+			<item>funciona em qualquer lugar</item>
+			<item>ligações telefonicas</item>
+			<item>recebi chamadas até na beira do rio</item>
+		</Sinal>
+		<Sincronização>
+			<item>acesso aos dados</item>
+		</Sincronização>
+		<Sistema_Operacional>
+			<item>falta de compatibilidade</item>
+			<item>sistema symbiam/java</item>
+		</Sistema_Operacional>
+		<Smartphone>
+			<item>porcaria</item>
+		</Smartphone>
+		<Tamanho>
+			<item>compacto</item>
+			<item>pequeno</item>
+			<item>volumoso</item>
+		</Tamanho>
+		<Tela>
+			<item>sensibilidade</item>
+		</Tela>
+		<Usabilidade>
+			<item>facil de manusear</item>
+			<item>fácil de mexer</item>
+			<item>fácil de usar</item>
+			<item>operação</item>
+			<item>pratico</item>
+			<item>prático</item>
+			<item>usá-lo</item>
+		</Usabilidade>
+		<Valor>
+			<item>acessivel</item>
+			<item>barato</item>
+		</Valor>
+		<Velocidade>
+			<item>cheios de bugs</item>
+			<item>congela</item>
+			<item>demora a responder</item>
+			<item>lento</item>
+			<item>rapidez</item>
+			<item>restarta</item>
+			<item>rápido</item>
+			<item>tempo de resposta</item>
+			<item>trava</item>
+		</Velocidade>
+	</smartphone>
+	<hotel>
+		<instalações>
+			<item>academia</item>
+			<item>aquecedor</item>
+			<item>aquecimento</item>
+			<item>ar condicionado</item>
+			<item>balheiro</item>
+			<item>banheiro</item>
+			<item>banheiros</item>
+			<item>box</item>
+			<item>box do banheiro</item>
+			<item>cama</item>
+			<item>carpete</item>
+			<item>chuveiro</item>
+			<item>computador do hotel disponível para os hospedes</item>
+			<item>cortina</item>
+			<item>cortinas</item>
+			<item>cozinha</item>
+			<item>de resto é muito ruim</item>
+			<item>ducha</item>
+			<item>duchas</item>
+			<item>elevador</item>
+			<item>espelunca</item>
+			<item>estacionamento</item>
+			<item>estrutura</item>
+			<item>fiação</item>
+			<item>fios</item>
+			<item>hotel expressinho é básico</item>
+			<item>hotel muito antigo</item>
+			<item>hotel pequeno</item>
+			<item>hotel simples</item>
+			<item>hotel é muito simples</item>
+			<item>hotel, eu sabia que era simples</item>
+			<item>infiltrações</item>
+			<item>infraestrutura</item>
+			<item>insetos</item>
+			<item>local para guardar roupas</item>
+			<item>lugar simples</item>
+			<item>mobiliados</item>
+			<item>móveis</item>
+			<item>piscina</item>
+			<item>porta do banheiro</item>
+			<item>porta do box</item>
+			<item>prédio</item>
+			<item>rampa</item>
+			<item>rede wi-fi</item>
+			<item>roupa de cama</item>
+			<item>sala de ginástica</item>
+			<item>telefone</item>
+			<item>tomada</item>
+			<item>tomadas</item>
+			<item>torneira</item>
+			<item>ultrapassado</item>
+			<item>utensílios de banho</item>
+			<item>wi-fi</item>
+			<item>wifi</item>
+		</instalações>
+		<quarto>
+			<item>acomodação</item>
+			<item>acomodações</item>
+			<item>apartamento</item>
+			<item>apartamentos</item>
+			<item>apto</item>
+			<item>cômodos</item>
+			<item>quarto</item>
+		</quarto>
+		<qualidade_do_sono>
+			<item>ar-condicionado muito barulhento</item>
+			<item>barulhento</item>
+			<item>barulhentos</item>
+			<item>barulho</item>
+			<item>barulhos</item>
+			<item>cama</item>
+			<item>camas</item>
+			<item>coberto</item>
+			<item>cobertores</item>
+			<item>descansar</item>
+			<item>dormir</item>
+			<item>lençol</item>
+			<item>noite de sono</item>
+			<item>pit stop</item>
+			<item>quarto, bastante barulhento</item>
+			<item>sejam muito escuros</item>
+			<item>silencio</item>
+			<item>silencioso</item>
+			<item>silenciosos</item>
+			<item>som desagradável de uma boate</item>
+		</qualidade_do_sono>
+		<limpeza>
+			<item>aspecto sujo</item>
+			<item>barata</item>
+			<item>baratinhas</item>
+			<item>cheira a mofo</item>
+			<item>cheira mofo</item>
+			<item>cheiram forte de cigarro</item>
+			<item>cheirando a mofo</item>
+			<item>cheiro</item>
+			<item>cheiro de mofo</item>
+			<item>chiqueiro</item>
+			<item>coceira em todo o corpo</item>
+			<item>empoeirado</item>
+			<item>encardido</item>
+			<item>esponja usada pendurada no registro</item>
+			<item>fedorento</item>
+			<item>higiene</item>
+			<item>imunda</item>
+			<item>imundas</item>
+			<item>imundo</item>
+			<item>insalúbre</item>
+			<item>limpas</item>
+			<item>limpeza</item>
+			<item>limpinho</item>
+			<item>limpo</item>
+			<item>limpos</item>
+			<item>lixo</item>
+			<item>mal cheiro</item>
+			<item>manchada</item>
+			<item>manchado</item>
+			<item>manchados</item>
+			<item>mau cheiro</item>
+			<item>mofo</item>
+			<item>nojento</item>
+			<item>nojeto</item>
+			<item>nojo</item>
+			<item>o quarto tinha cheiro de velho e tive alergia com a roupa de cama.</item>
+			<item>podre</item>
+			<item>porém não trocaram os lençóis</item>
+			<item>roupas de cama bem usadas</item>
+			<item>suja</item>
+			<item>sujas</item>
+			<item>sujeira</item>
+			<item>sujidades</item>
+			<item>sujo</item>
+			<item>sujos</item>
+		</limpeza>
+		<atendimento>
+			<item>atendentes</item>
+			<item>atendido</item>
+		</atendimento>
+		<funcionários>
+			<item>atendimento</item>
+			<item>camareiras</item>
+			<item>equipe</item>
+			<item>pessoal que atende na portaria</item>
+			<item>recepcionista</item>
+			<item>recepcionistas</item>
+		</funcionários>
+		<serviço>
+			<item>atendimento dos recepcionistas</item>
+			<item>pelo transfer entre hotel e aeroporto</item>
+			<item>room service</item>
+			<item>room-service</item>
+			<item>serviço de quarto</item>
+			<item>serviços</item>
+			<item>tivemos que carregar as malas sozinhos</item>
+			<item>transfer</item>
+			<item>translado</item>
+			<item>transporte gratuito</item>
+			<item>transporte próprio para levar e trazer do aeroporto</item>
+			<item>traslado</item>
+			<item>traslado gratuito para o aeroporto</item>
+		</serviço>
+		<preço>
+			<item>baratinho</item>
+			<item>barato</item>
+			<item>barato que sai caro</item>
+			<item>baratos</item>
+			<item>caro</item>
+			<item>diárias acessíveis</item>
+			<item>pagamento</item>
+			<item>valor</item>
+			<item>valor da diaria</item>
+			<item>valor é fora da realidade</item>
+			<item>valores</item>
+		</preço>
+		<localização>
+			<item>bem central</item>
+			<item>bem no centro</item>
+			<item>caminhada curta do centro histórico</item>
+			<item>consegue ir a pé até o mercado público</item>
+			<item>distante da calçada da fama</item>
+			<item>distância de 1 km do gasômetro</item>
+			<item>dá acesso ao coração da capital gaúcha</item>
+			<item>encontra-se estrategicamente dentro do centro financeiro</item>
+			<item>estando bem no centro de porto alegre</item>
+			<item>estar bem no centrão</item>
+			<item>está a poucos quarteirões</item>
+			<item>fica a 500 metros do terminal</item>
+			<item>fica ao lado</item>
+			<item>fica bem localizado</item>
+			<item>fica bem no centro</item>
+			<item>fica em frente a rodoviária</item>
+			<item>fica na regiao central</item>
+			<item>fica na região central</item>
+			<item>fica no centro</item>
+			<item>fica numa rua deserta</item>
+			<item>ficar da rodoviária</item>
+			<item>ficar em uma área central</item>
+			<item>fácil acesso ao centro</item>
+			<item>licalização</item>
+			<item>local em que se situa</item>
+			<item>local é de fácil acesso</item>
+			<item>localizacao</item>
+			<item>localizado</item>
+			<item>localizado no centro</item>
+			<item>localizaçao</item>
+			<item>localização</item>
+			<item>no centro</item>
+			<item>no centro da cidade</item>
+			<item>pertinho do aeroporto</item>
+			<item>perto</item>
+			<item>pra quem precisa dar voltas no centro de poa</item>
+			<item>proximidade</item>
+			<item>proximo</item>
+			<item>próximo</item>
+			<item>se encontro na região historica</item>
+			<item>tem muitas coisas ao redor</item>
+			<item>tem muitas coisas ao redor para aproveitar</item>
+			<item>é hotel bem na região central</item>
+		</localização>
+		<refeição>
+			<item>café</item>
+			<item>café da manha</item>
+			<item>café da manhã</item>
+			<item>comer</item>
+			<item>comida</item>
+			<item>janta</item>
+			<item>pratos</item>
+		</refeição>
+		<custo-benefício>
+			<item>custo</item>
+			<item>custo beneficio</item>
+			<item>custo benefício</item>
+			<item>custo x beneficio</item>
+			<item>custo/beneficio</item>
+		</custo-benefício>
+	</hotel>    
+</datasets>
