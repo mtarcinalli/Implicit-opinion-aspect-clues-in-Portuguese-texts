@@ -9,15 +9,13 @@ The file is in xml format, and has:
 
 
 <pre>
-
-<?xml version="1.0" ?>
-<datasets>
-	<camera>
-		<Atendimento_ao_consumidor>
-			<item>tratamento como cliente</item>
-		</Atendimento_ao_consumidor>
-		<Câmera>
-			<item>qualidade</item>
-		</Câmera>
-
+&lt;?xml version="1.0" ?&gt;
+&lt;datasets&gt;
+	&lt;camera&gt;
+		&lt;Atendimento_ao_consumidor&gt;
+			&lt;item>tratamento como cliente&lt;/item&gt;
+		&lt;/Atendimento_ao_consumidor&gt;
+		&lt;Câmera&gt;
+			&lt;item>qualidade&lt;/item&gt;
+		&lt;/Câmera&gt;
 </pre>
