@@ -1,4 +1,4 @@
-
+# Datasets
 
 Each file in this directory presents sentences and aspects related to a different domain (camera, hotel, book and smartphone).
 
@@ -8,15 +8,15 @@ The files are in csv format, using tab as a separator. Where:
 
 - The second introduces the word.
 
-- The third is the classification obtained by the POS-tagger (spaCy using the pt_core_news_lg model)
+- The third is the classification obtained by the POS-tagger (obtained by spaCy using the pt_core_news_lg model)
 
-- The fourth column the aspect indicator in IOB format (short for inside, outside, beginning), where:
+- The fourth column is the aspect indicator in IOB format (short for inside, outside, beginning), where:
     - B-asp: beginning of an aspect
     - I-asp: inside of an aspect
     - O: outside of an aspect
 
 
-
+<pre>
 Sentence #	Word	POS	Tag
 Sentence: 1	Vale	VERB	O
 	a	DET	O
@@ -41,3 +41,4 @@ Sentence: 2	O	PRON	O
 	Fácil	PROPN	O
 	manuseio	NOUN	B-asp
 	.	PUNCT	O
+    </pre>
