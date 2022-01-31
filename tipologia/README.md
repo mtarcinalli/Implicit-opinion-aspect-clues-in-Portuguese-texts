@@ -11,7 +11,7 @@ The file containing the typology of IACs is in csv format and has the following 
 
 The categories and subcategories are related to the type of knowledge needed to idenfify the relationship between the IAC and the aspect, and are presented below:
 
-- Event (Action/Process/State)}: the identification occurs through the identification of actions, processes, or states related to the aspect:
+- Event (Action/Process/State): the identification occurs through the identification of actions, processes, or states related to the aspect:
     - Verb: the IAC is identified by a verb. Ex: verb "to pay" and aspect "price";
     - Non-verbal form: the IAC is identified by a term related to a verb. Ex.: the word "payment" and aspect "payment";
 - Feature: the identification is given by terms related to the aspect or part of it:
@@ -27,6 +27,7 @@ The categories and subcategories are related to the type of knowledge needed to 
     - Location: the IAC is related to the localization of the product. Ex: the IAC "in the center of the region" and the aspect "location";
     - Related: other contextual cases not related to location. Ex: "musty smell" and the aspect "cleanliness".
 
+Below is a sample of the csv file:
 
 <pre>
 domain,aspect,implict aspect clue,category,qty,subcategory

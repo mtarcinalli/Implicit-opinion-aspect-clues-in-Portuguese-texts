@@ -15,6 +15,7 @@ The files are in csv format, using tab as a separator. Where:
     - I-asp: inside of an aspect
     - O: outside of an aspect
 
+Below is a sample of the csv file:
 
 <pre>
 Sentence #	Word	POS	Tag
